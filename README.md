@@ -2,6 +2,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
+Google colab
 # Program
 ```
 #PCM
@@ -138,6 +139,6 @@ plt.show()
 
 # Results
 ```
-Attach the output waveform
+ A simple Python program for the modulation and demodulation of PCM, and DM is verified.
 ```
-# Hardware experiment output waveform.
+
